@@ -46,7 +46,7 @@ https://kisanfin-ai-credit-scoring-iybmdxcbufcmwv4cyvymjt.streamlit.app/
 ![Default profile](profile.png)
 
 ### Telugu version
-![Telugu version](teluguswitch.png)
+![Telugu version](Teluguswitch.png)
 
 ## Responsible AI
 - The demo uses **synthetic data**, not real customer data.
