@@ -33,10 +33,10 @@ streamlit run app.py
 ```
 
 ## Live Demo
-(paste your Streamlit URL here after deployment)
+https://kisanfin-ai-credit-scoring-iybmdxcbufcmwv4cyvymjt.streamlit.app/
 
 ## Screenshots
-(add strong profile, weak profile and Telugu screenshots)
+
 
 ## Responsible AI
 - The demo uses **synthetic data**, not real customer data.
