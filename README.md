@@ -36,7 +36,17 @@ streamlit run app.py
 https://kisanfin-ai-credit-scoring-iybmdxcbufcmwv4cyvymjt.streamlit.app/
 
 ## Screenshots
+### Strong profile (high score)
+![Strong profile](strongprofile.png)
 
+### Weak profile (low score)
+![Weak profile](weakprofile.png)
+
+### Default profile
+![Default profile](profile.png)
+
+### Telugu version
+![Telugu version](teluguswitch.png)
 
 ## Responsible AI
 - The demo uses **synthetic data**, not real customer data.
